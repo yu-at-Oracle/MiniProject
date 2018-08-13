@@ -1,7 +1,9 @@
 課題1-2
+
+*dockerfile
 dockerfile.centos -> CentOS7 ベースのdockerfile
 
-// jdk ビルドスクリプト
+*jdk ビルドスクリプト
 common.sh
 
 get-openjdk.sh
